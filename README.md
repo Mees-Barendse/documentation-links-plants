@@ -2,7 +2,7 @@
 
 python project to automate searching for plant genuses and or species links
 
-## sites
+## suported sites
 
 + [alienplantsbelgium](https://alienplantsbelgium.myspecies.info/) 
 
