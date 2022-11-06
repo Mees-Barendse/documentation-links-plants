@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="nl" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="nl" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="nl" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="nl" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="nl" dir="ltr"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="nl" dir="ltr"><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="HandheldFriendly" content="true">
+  <meta name="MobileOptimized" content="width">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0">
+  <title>Zoeken | Ecopedia</title>
+  <link rel="shortcut icon" href="https://www.ecopedia.be/sites/all/themes/seagull_theme/favicon.ico" type="image/vnd.microsoft.icon">  <link rel="apple-touch-icon-precomposed" href="https://www.ecopedia.be/sites/all/themes/seagull_theme/apple-touch/apple-touch-icon-76x76-precomposed.png" sizes="76x76"><link rel="apple-touch-icon-precomposed" href="https://www.ecopedia.be/sites/all/themes/seagull_theme/apple-touch/apple-touch-icon-120x120-precomposed.png" sizes="120x120"><link rel="apple-touch-icon-precomposed" href="https://www.ecopedia.be/sites/all/themes/seagull_theme/apple-touch/apple-touch-icon-152x152-precomposed.png" sizes="152x152"><link rel="apple-touch-icon-precomposed" href="https://www.ecopedia.be/sites/all/themes/seagull_theme/apple-touch/apple-touch-icon-180x180-precomposed.png" sizes="180x180"><link rel="icon" href="https://www.ecopedia.be/sites/all/themes/seagull_theme/apple-touch/apple-touch-icon-precomposed.png">  <link href="https://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel="stylesheet">
+  <link type="text/css" rel="stylesheet" href="https://www.ecopedia.be/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ecopedia.be/sites/default/files/css/css_iQ4NEGKNUbXtj6QHp16anD05hOavlHhxWGrhvHi2EXc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ecopedia.be/sites/default/files/css/css_BaEETAOc-WGIY3LbYSlAd9Yd4kbzQdJcHBXZQCIjgac.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ecopedia.be/sites/default/files/css/css_9MeY1KxwydDKbaOmxENeCz7r56ptCw9qY-obPn2667w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ecopedia.be/sites/default/files/css/css_VV3oStukLFjq3wtZFoLSvNydmz8x0euKzFP9SOJ7t00.css" media="print" />
+  <script type="text/javascript" src="https://www.ecopedia.be/sites/all/libraries/modernizr/modernizr.js?qlc4tw"></script>
+<script type="text/javascript" src="https://www.ecopedia.be/sites/default/files/js/js_bHixdNqIm_fGV7c3IlqVJl-OQXz4T0rdcigI0kCjuGg.js"></script>
+<script type="text/javascript" src="https://www.ecopedia.be/sites/default/files/js/js_AhPscw8lzyNp2g3ajDkZXzQmzdo-WybRnICxuVieGV8.js"></script>
+<script type="text/javascript" src="https://www.ecopedia.be/sites/default/files/js/js_irNY7iuD0khn5iin1fdTu-FZuqnmWGINHjX3C_jy_8M.js"></script>
+<script type="text/javascript" src="https://www.ecopedia.be/sites/default/files/js/js_p4bl2ySL1J6gTptD8BBTOlYMNlgXO_j2L0XZx09YZls.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:257469,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.ecopedia.be/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-39658035-5", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.ecopedia.be/sites/default/files/js/js_G2SFKAq42rsqEK8eyMYoLG_ENdQ63n3ATKm9h2t6jPc.js"></script>
+<script type="text/javascript" src="https://www.ecopedia.be/sites/default/files/js/js_MTgPslepE_wNe7qxzerE3L8ik-eNwRDqumW4u6CMHZo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"seagull_theme","theme_token":"UcZo60utKyfwfQNkcC7eW9WN62HIJllwXf4nqOTlVFM","jquery_version":"1.10","js":{"sites\/all\/libraries\/modernizr\/modernizr.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/custom\/ecopedia_cropimage\/Jcrop\/js\/jquery.Jcrop.js":1,"sites\/all\/modules\/custom\/ecopedia_cropimage\/Jcrop\/js\/ecopedia_cropimage.js":1,"sites\/all\/modules\/contrib\/geofield_gmap\/geofield_gmap.js":1,"sites\/all\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"public:\/\/languages\/nl_iO9ihFGITs7g8JBGXwD220p0Z__jcZThda6cBd3xTFc.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"0":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/seagull_theme\/libraries\/matchMedia.js":1,"sites\/all\/themes\/seagull_theme\/libraries\/matchMedia.addListener.js":1,"sites\/all\/themes\/seagull_theme\/libraries\/enquire.min.js":1,"sites\/all\/themes\/seagull_theme\/libraries\/jquery.matchHeight.min.js":1,"sites\/all\/themes\/seagull_theme\/libraries\/isotope.min.js":1,"sites\/all\/themes\/seagull_theme\/js\/seagull.min.js":1,"sites\/all\/themes\/seagull_theme\/js\/toggle_more.min.js":1,"sites\/all\/themes\/seagull_theme\/js\/slideshow.min.js":1,"sites\/all\/themes\/seagull_theme\/js\/default.min.js":1,"sites\/all\/themes\/seagull_theme\/js\/fiches.min.js":1,"sites\/all\/themes\/seagull_theme\/js\/paragraphs.min.js":1,"sites\/all\/themes\/seagull_theme\/js\/beheertraject.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/geofield_gmap\/geofield_gmap.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/relation_add\/relation_add.css":1,"sites\/all\/modules\/contrib\/relation_add\/modules\/relation_add_block\/relation_add_block.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/search_api_page\/search_api_page.css":1,"sites\/all\/themes\/seagull_theme\/css\/seagull.css":1,"sites\/all\/themes\/seagull_theme\/css\/seagull_print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/zoeken\/test%20":true},"colorbox_node":{"width":"600px","height":"600px"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-zoeken page-zoeken-test-" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Overslaan en naar de inhoud gaan</a>
+  </div>
+    
+  <div id="site-wrapper">
+
+    
+    <header class="region region--header">
+      <div class="container clearfix">
+
+        <div class="branding">
+            <div class="site-logo">
+            <a href="/" title="Home" rel="home">
+              <img src="/sites/all/themes/seagull_theme/logo.svg" onerror="this.src='/sites/all/themes/seagull_theme/logo.png'; this.onerror=null;" alt="Home"></a>
+            </div>
+                      <div class="site-name"><a href="/" title="Home" rel="home">Ecopedia</a></div>
+                            </div>
+
+        <div class="header-region">
+          	<section id="block-menu-block-2" class="block block-menu-block supramenu">
+
+  	  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-2 menu-name-menu-supramenu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-173"><a href="/pagina/over-dit-platform">Over Ecopedia</a></li>
+<li class="leaf menu-mlid-174"><a href="/content/contacteer-ons">Contact</a></li>
+<li class="last leaf menu-mlid-176"><a href="/user" class="mijn-ecopedia">Mijn ecopedia</a></li>
+</ul></div>
+  </div>
+</section>
+<section id="block-menu-block-1" class="block block-menu-block hoofdmenu">
+
+  	  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-3259"><span class="nolink">Natuurkennis</span><ul class="menu"><li class="first last leaf has-children menu-mlid-848"><a href="/pagina/soorten-biotopen-en-ecologie">Basisinformatie</a></li>
+</ul></li>
+<li class="expanded menu-mlid-177"><span class="nolink">Natuurbeheer</span><ul class="menu"><li class="first leaf has-children menu-mlid-2838"><a href="/pagina/natuurbeheer-en-klimaat">Klimaat en natuurbeheer</a></li>
+<li class="leaf has-children menu-mlid-1314"><a href="/pagina/natuurlijke-tuinen">De natuurlijke tuin</a></li>
+<li class="leaf has-children menu-mlid-856"><a href="/pagina/grasland">Grasland</a></li>
+<li class="leaf has-children menu-mlid-1849"><a href="/pagina/projecten">Projecten en beheervoorbeelden</a></li>
+<li class="leaf has-children menu-mlid-2700"><a href="/pagina/biodiversiteit-op-bedrijventerreinen">Biodiversiteit op bedrijventerreinen</a></li>
+<li class="leaf has-children menu-mlid-855"><a href="/pagina/bos">Bos</a></li>
+<li class="leaf has-children menu-mlid-850"><a href="/pagina/bomen">Bomenbeheer</a></li>
+<li class="leaf has-children menu-mlid-849"><a href="/pagina/soortbeheer">Soortbeheer</a></li>
+<li class="leaf has-children menu-mlid-2567"><a href="/pagina/landschapsbeheer">Landschapsbeheer</a></li>
+<li class="leaf has-children menu-mlid-1316"><a href="/pagina/groenbeheer">Groenbeheer</a></li>
+<li class="last leaf has-children menu-mlid-220"><a href="/pagina/exoten">Exoten</a></li>
+</ul></li>
+<li class="expanded menu-mlid-215"><span class="wetgeving nolink">Wet &amp; beleid</span><ul class="menu"><li class="first leaf has-children menu-mlid-862"><a href="/pagina/de-biologische-waarderingskaart-0">De biologische waarderingskaart</a></li>
+<li class="leaf menu-mlid-2696"><a href="/traject/graslanden-wetgeving-en-beleid">Infotraject wetgeving graslanden</a></li>
+<li class="leaf menu-mlid-2590"><a href="/traject/wetgeving-kappen-en-planten-van-bomen">Kappen en planten van bomen</a></li>
+<li class="leaf has-children menu-mlid-1914"><a href="/pagina/natuurstreefbeelden">Natuurstreefbeelden</a></li>
+<li class="leaf has-children menu-mlid-1044"><a href="/pagina/europees-beschermde-natuur-0">Europees beschermde natuur</a></li>
+<li class="last leaf has-children menu-mlid-2646"><a href="/pagina/natuurbeheerplan">Natuurbeheerplan</a></li>
+</ul></li>
+<li class="expanded menu-mlid-218"><span class="materiaal nolink">Materiaal</span><ul class="menu"><li class="first leaf has-children menu-mlid-1677"><a href="/pagina/techniek">Hoe werkt het?</a></li>
+<li class="leaf has-children menu-mlid-1145"><a href="/pagina/veiligheid-en-welzijn">Veiligheid, welzijn en wetgeving</a></li>
+<li class="leaf has-children menu-mlid-829"><a href="/pagina/kettingzaag-bosmaaier-en-andere-machines">Kettingzaag, bosmaaier en meer</a></li>
+<li class="leaf has-children menu-mlid-823"><a href="/pagina/tractor-%C3%A9%C3%A9nassige-trekker-en-andere-machines">Tractor, éénassige trekker en meer</a></li>
+<li class="last leaf has-children menu-mlid-825"><a href="/pagina/handgereedschap">Handgereedschap</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-221"><span class="economie nolink">Groene economie</span><ul class="menu"><li class="first leaf has-children menu-mlid-1799"><a href="/pagina/ecosysteemdiensten">Ecosysteemdiensten</a></li>
+<li class="leaf has-children menu-mlid-1326"><a href="/pagina/oogstbaar-landschap">Oogstbaar landschap</a></li>
+<li class="leaf has-children menu-mlid-2234"><a href="/pagina/de-houtmarkt" class="menu-node-unpublished">De houtmarkt</a></li>
+<li class="last leaf has-children menu-mlid-2603"><a href="/stoken%20met%20hout">Stoken met hout</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</section>
+        </div>
+
+                  <a href="#" id="mobile-menu-anchor" class="icon-menu show-mobile"><span class="element-invisible">Menu</span></a>
+              </div>
+
+      
+              
+      
+
+    </header>
+
+      <div class="region search-region"><div class="search-region-inner">
+        <div class="container">
+          	<section id="block-search-api-page-ecopedia-default-search" class="block block-search-api-page">
+
+  	  
+  <div class="content">
+    <form action="/zoeken/test%20" method="post" id="search-api-page-search-form-ecopedia-default-search" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-1">
+  <label class="element-invisible" for="edit-keys-1--2">Trefwoorden invoeren </label>
+ <input placeholder="Trefwoorden invoeren" type="text" id="edit-keys-1--2" name="keys_1" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="id" value="1" />
+<input type="submit" id="edit-submit-1--2" name="op" value="Zoeken" class="form-submit" /><input type="hidden" name="form_build_id" value="form-eppb8_1-3M5n7f4ilmEbd7KGyTsSuKSFR4gyfiuM7VQ" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_ecopedia_default_search" />
+</div></form>  </div>
+</section>
+        </div>
+      </div></div>
+
+
+    <div class="region region--content-info">
+      <div class="container">
+                  <div id="breadcrumb"><h2 class="element-invisible">U bent hier</h2><div class="breadcrumb"><a href="/">Home</a> <span class="separator">&rsaquo;</span> Zoeken</div></div>
+                                <a id="main-content"></a>
+                        <h1 class="title" id="page-title">Zoeken naar &ldquo;test &rdquo;</h1>                                              </div>
+    </div>
+
+    <div class="region region--content">
+              <div class="container">
+          	
+<form action="/zoeken/test%20" method="post" id="search-api-page-search-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-1">
+  <label for="edit-keys-1">Trefwoorden invoeren </label>
+ <input type="text" id="edit-keys-1" name="keys_1" value="test " size="30" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="id" value="1" />
+<input type="submit" id="edit-submit-1" name="op" value="Zoeken" class="form-submit" /><input type="hidden" name="form_build_id" value="form-t_0Ld-7rn_EYKTUC8kSbRxwWN9X-1GFXwXijreoos7I" />
+<input type="hidden" name="form_id" value="search_api_page_search_form" />
+</div></form>
+<div class="search-api-page-results">
+      <p class="search-performance">Uw zoekopdracht heeft 281 resultaten opgeleverd</p>          <h2>Zoekresultaten</h2>
+    <ol class="search-results">
+      <li class="search-result">
+  <h3 class="title">
+    <a href="/encyclopedie/dieptesteller">Dieptesteller</a>  </h3>
+  <div class="search-snippet-info">
+          Encyclopedie      </div>
+</li>
+<li class="search-result">
+  <h3 class="title">
+    <a href="/pagina/testpagina">Testpagina</a>  </h3>
+  <div class="search-snippet-info">
+          Pagina      </div>
+</li>
+<li class="search-result">
+  <h3 class="title">
+    <a href="/dieren/testvlinder"> - testvlinder</a>  </h3>
+  <div class="search-snippet-info">
+          Fauna      </div>
+</li>
+<li class="search-result">
+  <h3 class="title">
+    <a href="/pagina/test-jezelf">Test jezelf!</a>  </h3>
+  <div class="search-snippet-info">
+          Pagina      </div>
+</li>
+<li class="search-result">
+  <h3 class="title">
+    <a href="/pagina/kennistest-houtkwaliteit">Kennistest houtkwaliteit</a>  </h3>
+  <div class="search-snippet-info">
+          Pagina      </div>
+</li>
+    </ol>
+    <h2 class="element-invisible">Pagina's</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Ga naar pagina 2" href="/zoeken/test%20?page=1"><span>2</span></a></li>
+<li class="pager-item"><a title="Ga naar pagina 3" href="/zoeken/test%20?page=2"><span>3</span></a></li>
+<li class="pager-item"><a title="Ga naar pagina 4" href="/zoeken/test%20?page=3"><span>4</span></a></li>
+<li class="pager-item"><a title="Ga naar pagina 5" href="/zoeken/test%20?page=4"><span>5</span></a></li>
+<li class="pager-item"><a title="Ga naar pagina 6" href="/zoeken/test%20?page=5"><span>6</span></a></li>
+<li class="pager-item"><a title="Ga naar pagina 7" href="/zoeken/test%20?page=6"><span>7</span></a></li>
+<li class="pager-item"><a title="Ga naar pagina 8" href="/zoeken/test%20?page=7"><span>8</span></a></li>
+<li class="pager-item"><a title="Ga naar pagina 9" href="/zoeken/test%20?page=8"><span>9</span></a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Ga naar volgende pagina" href="/zoeken/test%20?page=1"><span>volgende ›</span></a></li>
+<li class="pager-last last"><a title="Ga naar laatste pagina" href="/zoeken/test%20?page=56"><span>laatste »</span></a></li>
+</ul></div>  </div>
+                  </div>
+          </div>
+
+    <footer class="region region--footer">
+      <div class="container">
+        	<section id="block-block-1" class="block block-block footer-logos">
+
+  	  
+  <div class="content">
+    <ul><li><a href="http://www.inverde.be/" target="_blank"><img alt="inverde logo wit" height="41" src="https://ecopedia.s3.eu-central-1.amazonaws.com/media/inverde-wit.png" width="85" /></a></li>
+<li><a href="https://www.inbo.be/" target="_blank"><div class="media media-element-container media-default"><div id="file-117986" class="file file-image file-image-png">
+
+  
+  <div class="content">
+    <img alt="inbo logo wit" title="inbo logo wit" height="23" width="167" class="file-default media-element" src="https://ecopedia.s3.eu-central-1.amazonaws.com/media/INBO-wit.png" />  </div>
+
+  
+</div>
+</div></a></li>
+<li><a href="https://www.natuurenbos.be/" target="_blank"><div class="media media-element-container media-default"><div id="file-117985" class="file file-image file-image-png">
+
+  
+  <div class="content">
+    <img alt="ANB logo wit" title="ANB logo wit" height="23" width="75" class="file-default media-element" src="https://ecopedia.s3.eu-central-1.amazonaws.com/media/ANB-wit.png" />  </div>
+
+  
+</div>
+</div></a></li>
+<li><div class="media media-element-container media-default"><div id="file-117987" class="file file-image file-image-png">
+
+  
+  <div class="content">
+    <img alt="Vlaamse overheid logo wit" title="Vlaamse overheid logo wit" height="36" width="77" class="file-default media-element" src="https://ecopedia.s3.eu-central-1.amazonaws.com/media/VO-wit.png" />  </div>
+
+  
+</div>
+</div></li>
+<li><a href="http://ec.europa.eu/environment/life/" target="_blank"><div class="media media-element-container media-default"><div id="file-117988" class="file file-image file-image-jpeg">
+
+  
+  <div class="content">
+    <img alt="Life logo" title="Life logo" height="46" width="63" class="file-default media-element" src="https://ecopedia.s3.eu-central-1.amazonaws.com/media/life.jpg" />  </div>
+
+  
+</div>
+</div></a></li>
+<li><a href="https://www.natura2000.vlaanderen.be/" target="_blank"><div class="media media-element-container media-default"><div id="file-117989" class="file file-image file-image-jpeg">
+
+  
+  <div class="content">
+    <img alt="Natura 2000 logo" title="Natura 2000 logo" height="44" width="61" class="file-default media-element" src="https://ecopedia.s3.eu-central-1.amazonaws.com/media/natura2000.jpg" />  </div>
+
+  
+</div>
+</div></a></li>
+</ul>  </div>
+</section>
+      </div>
+    </footer>
+
+  </div>
+  </body>
+</html>

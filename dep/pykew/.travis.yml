@@ -1,0 +1,14 @@
+language: python
+python:
+- '3.5'
+install:
+- pip install pipenv
+- pipenv install
+script: pipenv run py.test
+deploy:
+  provider: pypi
+  user: kewbi
+  password:
+    secure: pWSuSQYMEINl68uXi9rskwDcyntrWzZUPTNMHeEal7jHXJSaeDMYmUQx7k7PZ4/MPKwBQ80BqNOI6mNHmAfnBR9g7MBc78zEiW5twnAXVOQounsO7C0cXIYWFW4seZj+WYho2hNvwpvuJsUywiYpr5DZTAqIAaoMm6RrAukvnOxrGg/3miTrX+aYE87/z4sdeckQ2/gVFYnJa2BVFUGjD5vGDxhwX//AsQk6cTEc320FrpGTKw2Yzs+3G/7MywFb1ix+d+DRiTS6p9VyUujK2zTBwHM2PVmaRPWIxyNhFionM4VmnRFXOZLGO7hCeu6E5KI2lNjlogeMZQWdX8BHJek34NTXuBJsZ385McLRWaRDBOnTA+hsu0vg6548LLmd1G3hy2sdYTrK/2p3ECsA+WbUVaEwtTMPyTM70QIQdmtHOVrSWOpZ01pA+hrmOzFWbSMmLJ5eMeEfVo4dWw7icGwOaCL1FAFTGtorsEoO0fJLKNWKuGDQ25a2rRD/nnhmREQf6O/NilWPUWWS4qSwH6iJPrQMGjsgwAGxLbLRemASH9T7Gtkgha9r/v49A0bBAgrUVDTKIuD8er36O73g5i6ZPQfk8ol9GsK9jijD4pj89wViPDzA68ig3ZmR2jF/k7Y08ZE3XvxZBduiVIGbrSKteefcOUlY2wLz/z6Rls4=
+  on:
+    tags: true
