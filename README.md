@@ -26,5 +26,5 @@ python project to automate searching for plant genuses and or species links
 #### recommended install:
 
 ```
-$ pip install os-sys pandas
+$ pip install os-sys pandas tets
 ```
