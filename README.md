@@ -28,5 +28,3 @@ python project to automate searching for plant genuses and or species links
 ```
 $ pip install os-sys pandas
 ```
-
-testt
